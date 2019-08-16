@@ -26,3 +26,18 @@ nav a:hover {
 nav a.active {
   color: #039be5;
 }
+button {
+  padding: 5px 10px;
+  text-decoration: none;
+  margin-top: 10px;
+  display: inline-block;
+  background-color: #eee;
+  border-radius: 4px;
+}
+button:visited, a:link {
+  color: #334953;
+}
+button:hover {
+  color: #039be5;
+  background-color: #cfd8dc;
+}
